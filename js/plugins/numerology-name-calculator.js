@@ -127,7 +127,7 @@
 
             });
 
-            o += "<p><strong>Life Path Number</strong> = ";
+            o += "<p><strong>Destiny Number</strong> = ";
 
             if(obj.words.length > 1) {
                  _.each(obj.words, function(w, m){

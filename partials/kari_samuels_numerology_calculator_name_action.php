@@ -69,7 +69,7 @@
       </th>
     <td>
       <input type="checkbox" id="kari-samuels-numerology-calculator-names-show_calculations" name="kari-samuels-numerology-calculator-names-show_calculations"  value="0" /><br />
-      <small>This is option determins whether the calculator will display the calculations.</small></td>
+      <small>This option determins whether the calculator will display the proof for the calculation.</small></td>
     </tr>
     </table>
 

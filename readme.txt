@@ -30,9 +30,9 @@ In the content editor click on the buttons (lion or aquarius) to automatically g
 
 Go to the page that was generated, and examine the input field. Type in a name/place/date and see a life path number.
 
-= What are the options that the shortcake provides =
+= What are the options that the shortcode provides =
 
-The shortcake provides for these options:
+The shortcode provides for these options:
 
 show_calculations - Whether to show the calculation to determine the life path number
 
